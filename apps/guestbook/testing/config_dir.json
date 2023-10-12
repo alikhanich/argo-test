@@ -1,0 +1,13 @@
+{
+  "appName": "guestbook",
+  "userGivenName": "guestbook",
+  "destNamespace": "default",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": ".",
+  "srcRepoURL": "https://github.com/alikhanich/argo-test.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "annotations": null,
+  "exclude": "",
+  "include": ""
+}
